@@ -1,0 +1,2 @@
+# Ignore the API key file
+API_KEY.txt
